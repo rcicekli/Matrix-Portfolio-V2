@@ -59,24 +59,30 @@ src/
 ├── App.js
 ├── index.js
 └── styles.css
+```
 
-##🔧 KURULUM
+
+## 🔧 KURULUM
 
 Projeyi çalıştırmak için:
-
 npm install
 npm start
 
+---
 
-
-##👨‍💻 GELİŞTİRİCİ
+## 👨‍💻 GELİŞTİRİCİ
 
 Ramazan Çiçekli
 
 GitHub: https://github.com/rcicekli
+
 LinkedIn: https://www.linkedin.com/in/rcicekli/
 
-##⚡ NOT
+---
+
+## ⚡ NOT
 
 Bu proje modern frontend geliştirme yeteneklerini göstermek için hazırlanmış cyberpunk temalı bir portfolyo uygulamasıdır.
 Projeyi beğendiysen ⭐ vermeyi unutma!
+
+---
